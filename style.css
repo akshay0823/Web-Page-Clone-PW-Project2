@@ -7,7 +7,7 @@
 .main_container {
   width: 100vw;
   height: 100vh;
-  background-image: url(/IMG/background-image.png);
+  background-image: url(IMG/background-image.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
